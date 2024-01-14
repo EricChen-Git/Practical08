@@ -3,32 +3,46 @@
 
 ## Learning Activities & Resources
 
-**Theory:** I hypothesized that a combination of LinkedIn Learning videos, YouTube tutorials, and WordPress documentation would provide a comprehensive understanding of creating child themes for WordPress.
+**Theory:** My hypothesis was that a blend of LinkedIn Learning videos, YouTube tutorials, and WordPress documentation would offer a holistic understanding of creating child themes for WordPress.
 
-**Test:** I set out to spend around 8 hours engaging with the mentioned resources to learn about WordPress child themes. The specific activities included:
+**Test:** I dedicated approximately 8 hours to engage with the identified resources for learning about WordPress child themes. The specific activities included:
 
-1. Watching LinkedIn Learning videos on building WordPress child themes.
-   - [Link 1: WordPress Building Child Themes](https://www.linkedin.com/learning/wordpress-building-child-themes-3/what-you-need-to-know?autoSkip=true&autoplay=true&resume=false&u=2223545)
-   - [Link 2: Learning Responsive Web Design in the Browser](https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser/design-responsive-wordpress-themes-in-the-browser?autoplay=true&u=2223545)
+1. **LinkedIn Learning Videos:**
+   - [WordPress Building Child Themes](https://www.linkedin.com/learning/wordpress-building-child-themes-3/what-you-need-to-know?autoSkip=true&autoplay=true&resume=false&u=2223545)
+   - [Learning Responsive Web Design in the Browser](https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser/design-responsive-wordpress-themes-in-the-browser?autoplay=true&u=2223545)
 
-2. Watching YouTube tutorials on setting up child themes.
+2. **YouTube Tutorials:** Explored tutorials focused on setting up WordPress child themes.
 
-3. Researching WordPress documentation on child themes.
-   - [Link 3: WordPress Child Themes Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
-   - [Link 4: Creating a Child Theme in WordPress](https://blog.hubspot.com/website/wordpress-create-child-theme)
+3. **WordPress Documentation:**
+   - [WordPress Child Themes Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+   - [Creating a Child Theme in WordPress](https://blog.hubspot.com/website/wordpress-create-child-theme)
 
 ## Content Insights
 
-The learning experiment provided valuable insights into creating child themes for WordPress. Key takeaways include:
+The learning experiment yielded valuable insights into the creation of child themes for WordPress. Key takeaways include:
 
-- Child themes enable the editing of existing themes without modifying the main theme, ensuring customization without permanent alterations to the original design.
-- Changes made to the original theme can be overwritten and lost during updates, but child themes allow edits to be saved separately and remain unaffected by theme updates.
-- Child themes offer efficiency in styling, and designers can make changes without worrying about them being removed.
+- **Functionality of Child Themes:** Child themes empower users to modify existing themes without altering the main theme, ensuring customization without permanent changes to the original design.
+  
+- **Preservation of Edits:** Changes made to the original theme might be overwritten and lost during updates, but child themes enable edits to be saved separately, remaining unaffected by theme updates.
+
+- **Efficiency in Styling:** Child themes offer efficiency in styling, allowing designers to make changes without the concern of them being removed or altered.
 
 ## Career/Employability/Learning Insights
 
-The exploration of child themes, while not directly aligned with my career goals, provided a glimpse into the challenges and considerations of back-end developers. The ability to make efficient styling changes without jeopardizing the entire template is a valuable skill for website designers. While I may not foresee direct use in my career path, understanding these concepts broadens my knowledge of web development and the diverse tools and techniques employed in the field.
+Although the exploration of child themes may not align directly with my career goals, it provided insights into the challenges and considerations of back-end developers. The ability to make efficient styling changes without jeopardizing the entire template is a valuable skill for website designers. While I may not anticipate direct application in my career path, understanding these concepts broadens my knowledge of web development and the diverse tools and techniques employed in the field.
 
-## Conclusion
+## SMART Goal Integration
 
-The learning experiment was successful in providing a comprehensive understanding of WordPress child themes. The combination of LinkedIn Learning, YouTube tutorials, and official documentation proved effective in grasping the concepts. While the specific application might not align with my career goals, the experience broadened my understanding of web development processes and the importance of tools like child themes in ensuring efficient and effective website customization.
+In moving forward, I'll apply the SMART goal framework to enhance my learning and ensure its practical application:
+
+- **Specific:** I aim to create and implement a child theme for a WordPress website, focusing on customizing the styling and layout elements.
+
+- **Measurable:** I plan to complete the child theme setup within the next two weeks, spending at least 10 hours actively working on the project.
+
+- **Achievable:** Given my current understanding, I believe this goal is achievable with the knowledge gained from the learning activities.
+
+- **Relevant:** While not directly tied to my career goals, this project aligns with my broader interest in understanding diverse aspects of web development.
+
+- **Time-Bound:** I will present the completed child theme during the next team meeting, which is scheduled in three weeks, providing a clear deadline for my goal.
+
+This SMART goal will serve as a practical application of the learned concepts and reinforce my understanding of WordPress child themes in a real-world scenario.
